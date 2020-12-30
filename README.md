@@ -47,5 +47,12 @@ line break.
 * Cheese
 * Tomatoes
 
+# **ordered list**
+
+1. Stick to a sleep schedule
+2. Create a bedtime ritual
+3. Get comfortable
+4. Manage stress
+
 
                             
