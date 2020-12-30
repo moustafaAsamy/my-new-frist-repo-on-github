@@ -10,3 +10,15 @@ This repo is made for the sake of learning the bolts and nuts of github
 
 This is a\
 line break.
+
+#  * heading  1
+## *  heading 2
+### * heading 3
+#### * heading 4
+###### * heading 4
+##### * heading 5
+
+\* It's behind you! Hurry before it
+
+   * It's behind you! Hurry before it
+                            
