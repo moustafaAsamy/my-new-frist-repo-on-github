@@ -82,3 +82,15 @@ was formed in 2013 through the merger of Rwanda’s seven public institutions of
 
 logo ![logo](https://icons.iconarchive.com/icons/hopstarter/soft-scraps/24/Button-Turn-Off-icon.png " hhloogo")  logo 
 #### logo 
+
+
+# inline code
+
+
+When `x = 3`, that means `x + 2 = 5`
+
+Who ate the most donuts this week?
+
+    Jeff  15
+    Sam   11
+    Robin  6
