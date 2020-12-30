@@ -77,3 +77,8 @@ was formed in 2013 through the merger of Rwanda’s seven public institutions of
 
 ![Mockup for feature A]( https://images.onlinelabels.com/Handlers/FileHandler.ashx?ClipArtID=107891&File=images%2fclip-art%2fmolumen%2fmolumen_multicolor_power_buttons_5.png "Optional title attribute")
 
+
+![logo](https://images.onlinelabels.com/Handlers/FileHandler.ashx?ClipArtID=107891&File=images%2fclip-art%2fmolumen%2fmolumen_multicolor_power_buttons_5.png)
+
+logo ![logo](https://icons.iconarchive.com/icons/hopstarter/soft-scraps/24/Button-Turn-Off-icon.png " hhloogo")  logo 
+#### logo 
