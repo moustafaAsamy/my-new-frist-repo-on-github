@@ -69,3 +69,11 @@ was formed in 2013 through the merger of Rwanda’s seven public institutions of
 # images 
 
 ![](https://www.carredesign.co/wp-content/uploads/2019/11/2021-Mercedes-Benz-GLC-300-Interior.jpg)
+
+
+![Logo][1]
+
+[1]: http://beagleboard.org/black-wireless "Creative Commons licensed"
+
+![Mockup for feature A]( https://images.onlinelabels.com/Handlers/FileHandler.ashx?ClipArtID=107891&File=images%2fclip-art%2fmolumen%2fmolumen_multicolor_power_buttons_5.png "Optional title attribute")
+
